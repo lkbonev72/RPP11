@@ -1,0 +1,23 @@
+# Виртуални среди — никога не влизат в Git
+.venv/
+venv/
+env/
+proekt_a/
+proekt_b/
+
+# Python
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Тайни и локални настройки
+.env
+
+# Редактори и операционни системи
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+
+test_cp1251.txt
+otchet.txt
